@@ -1,4 +1,4 @@
- export default class Utils {
+  class Utils {
    
    static dateFormat(date){
   

@@ -1,5 +1,3 @@
-import Utils from './Utils.js'
-
 class UserController {
 
     constructor (formId, tableId){
